@@ -2,8 +2,8 @@ package vertex101.spawnme.items;
 
 import net.minecraft.item.Item;
 
-public class ItemHelix extends Item {
-    public ItemHelix(Item.Properties properties) {
+public class ItemSpheroid extends Item {
+    public ItemSpheroid(Properties properties) {
         super(properties);
     }
 }

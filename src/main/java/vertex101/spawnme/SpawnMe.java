@@ -13,7 +13,6 @@ public class SpawnMe
 {
     public static final String MOD_ID = "spawnme";
 
-    // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
     public SpawnMe() {

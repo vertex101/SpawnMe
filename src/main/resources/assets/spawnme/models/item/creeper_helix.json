@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "spawnme:item/zombie_helix"
+    "layer0": "spawnme:item/creeper_helix"
   }
 }
